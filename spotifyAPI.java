@@ -134,6 +134,7 @@ public class spotifyAPI {
 	/** Helper function to add request properties
 	* @param url This is the endpoint url
 	* @param method This is the request method
+	* @return HttpURLConnection Returns connection object with added properties
 	*/
 	private static HttpURLConnection createConnection(URL url, String method) throws IOException {
 		HttpURLConnection conn = (HttpURLConnection) url.openConnection();
