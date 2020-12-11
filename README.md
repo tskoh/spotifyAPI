@@ -5,3 +5,4 @@ By running the code the user will select a number from 1 to 4 to execute a reque
 1 - GET; 2 - POST; 3 - PUT; 4 - DELETE
 
 You can go to https://developer.spotify.com/ to take a look at their APIs.
+https://developer.spotify.com/documentation/web-api/reference/playlists/ for their playlist specific APIs
